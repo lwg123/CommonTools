@@ -1,0 +1,6 @@
+framework module TCReceiptSDK {
+  umbrella header "TCReceiptSDK.h"
+
+  export *
+  module * { export * }
+}
